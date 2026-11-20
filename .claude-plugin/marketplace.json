@@ -1,0 +1,12 @@
+{
+  "name": "pc-optimize-kit",
+  "owner": { "name": "tomerbasat10-debug" },
+  "plugins": [
+    {
+      "name": "pc-optimize-kit",
+      "source": "./",
+      "description": "Safe, reversible Windows 11 setup and low-input-lag tuning for gaming + productivity desktops."
+    }
+  ]
+}
+

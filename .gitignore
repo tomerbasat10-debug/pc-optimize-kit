@@ -1,0 +1,6 @@
+# runtime output never belongs in the repo
+PCOptimize/
+*.etl
+*.csv
+*.nip
+*.log

@@ -1,0 +1,6 @@
+{
+  "name": "pc-optimize-kit",
+  "version": "1.0.0",
+  "description": "Safe, reversible Windows 11 setup and low-input-lag tuning: scan, baseline, drivers, display, GPU latency, apps, stability, report.",
+  "keywords": ["windows", "gaming", "latency", "drivers", "optimization"]
+}
